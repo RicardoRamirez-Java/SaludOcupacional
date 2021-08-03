@@ -1,0 +1,33 @@
+body,html { padding-top: 60px; }
+
+.contenedor {
+   margin-bottom: 20px;
+    background: #d1e7dd;
+    border:1px solid;    
+}
+
+
+@media only screen and (max-width: 1319px) {
+      body,html { 
+    padding-top: 60px;
+}
+}
+@media only screen and (max-width: 873px) {
+      body,html { 
+    padding-top: 60px;
+}
+}
+@media only screen and (max-width: 767px) {
+      body,html { 
+    padding-top: 60px;
+}
+.container{
+    width: 100% !important;
+}
+}
+@media only screen and (max-width: 508px) {
+      body,html { 
+    padding-top: 60px;
+}
+}
+
